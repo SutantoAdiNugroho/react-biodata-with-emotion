@@ -41,7 +41,11 @@ export default function Body() {
           `}
         />
         This is a good place to introduce yourself. What do you love to do? Where are you from? What is your current job?
-		This also might be a good place to link to your resume, email, or portfolio as well.</p> 
+		This also might be a good place to link to your resume, email, or portfolio as well. I am an energetic, ambitious
+     person who has developed a mature and responsible approach to any task that I undertake, or situation that I 
+     am presented with. As a graduate with three years’ experience in management, I am excellent in working with others to 
+     achieve a certain objective on time and with excellence. In my previous role, I improved the performance, operations
+      and productivity of my team by 35%..</p> 
         </section>  
         </div>
     )
